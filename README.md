@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy 🤠
+I make Android apps
 
 <!--
 **alisonthemonster/alisonthemonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
